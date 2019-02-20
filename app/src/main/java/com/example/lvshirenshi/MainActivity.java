@@ -54,6 +54,7 @@ public class MainActivity extends BaseActivity {
     public static final int FILECHOOSER_RESULTCODE = 5173;
     private ACache aCache;
         private String myUrl="https://mrs.libawall.com";
+//    private String myUrl="http://xmb.xmluma.cn/index2.html";
     @Override
     public int initLayoutId() {
         return R.layout.activity_main;
